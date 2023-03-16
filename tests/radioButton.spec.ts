@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test.skip('Select a raddio button based on value', async ({ page }) => {
+test('Select a raddio button based on value', async ({ page }) => {
 
   await page.goto('https://devexpress.github.io/testcafe/example/');
   

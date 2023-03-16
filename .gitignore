@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,node
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,node
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,node
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,windows,node
 
 ### Node ###
 # Logs
@@ -186,7 +186,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,nodenp
-/test-results/
-/playwright-report/
-/playwright/.cache/
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,node
